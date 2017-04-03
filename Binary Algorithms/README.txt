@@ -1,10 +1,7 @@
-﻿Robert Adams
+#Project 1
+Robert Adams
 Andre Judson
 CS 415
-
-
-Project 1
-
 
 Python Interpreter: Python 3.5.1 (Will not work in version 2)
 
